@@ -1,0 +1,16 @@
+.brand {
+  gap: 9px;
+}
+
+.brand-mark {
+  width: 29px;
+  height: 29px;
+  display: block;
+  flex: 0 0 auto;
+  background: url("logo-mark.svg") center / contain no-repeat;
+}
+
+.brand-mark i,
+.brand-mark b {
+  display: none;
+}
